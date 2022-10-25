@@ -6,7 +6,7 @@
     },
     "is_managed": null,
     "is_demo": null,
-    "allow_data_tracking": true,
+    "allow_data_tracking": false,
     "s3_region": null,
     "spacy_downloads": [
         "en_core_web_sm",

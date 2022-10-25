@@ -2,7 +2,8 @@ from typing import Dict, Any
 import os
 import json
 
-__blacklist_base_config = ["is_managed", "is_demo", "services_to_notify"]
+# __blacklist_base_config = ["is_managed", "is_demo", "services_to_notify"]
+__blacklist_base_config = []
 __config = None
 
 BASE_CONFIG_PATH = "base_config.json"
